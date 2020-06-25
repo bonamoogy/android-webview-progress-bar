@@ -16,6 +16,6 @@ Change the Home Url
 private String URL = "<your home URL>";
 ```
 
-### Snapshot
+### Snapshots
 
-![snapshot 1](snapshot.jpg) ![snapshot 2](snapshot2.jpg) ![snapshot 3](snapshot3.jpg)
+![snapshot 1](snapshots/snapshot.jpg) ![snapshot 2](snapshots/snapshot2.jpg) ![snapshot 3](snapshots/snapshot3.jpg) 
